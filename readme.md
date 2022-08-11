@@ -33,6 +33,11 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 * Navigate to [ http://localhost:3000/api/ping]( http://localhost:3000/api/ping) to test backend.
 
+```bash
+docker exec
+```
+Above command is used to run commands on running container
+
 #### Frontend Setup
 
 - In a different terminal tab, navigate into the frontend folder and run the following command:
